@@ -1,0 +1,5 @@
+Flask
+Adafruit_DHT
+adafruit-circuitpython-ssd1306
+RPi.GPIO
+requests

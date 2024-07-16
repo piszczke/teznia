@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, redirect, url_for
 import requests
 
 app = Flask(__name__)
-
+x
 ESP8266_IP = '192.168.0.11'  # Replace with the IP address of your ESP8266
 
 @app.route('/')
